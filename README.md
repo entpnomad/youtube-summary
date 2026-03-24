@@ -2,6 +2,10 @@
 
 A [Claude Code](https://claude.ai/code) slash command that summarizes YouTube videos using MCP transcript extraction.
 
+## Why
+
+YouTube is where the best ideas live — conference talks, founder interviews, deep dives on strategy. But I don't always have 40 minutes to watch a video just to pull out 3 key takeaways. This command gives me the substance in seconds. I read the summary, decide if it's worth the full watch, and move on.
+
 ## What it does
 
 Fetches the transcript for a YouTube video and produces a structured summary:

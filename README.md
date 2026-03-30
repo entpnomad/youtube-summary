@@ -1,3 +1,5 @@
+🌐 [English](README.md) | [Español](README.es.md) | [Français](README.fr.md) | [Italiano](README.it.md)
+
 # youtube-summary
 
 A [Claude Code](https://claude.ai/code) slash command that summarizes YouTube videos using MCP transcript extraction and visual scene analysis.
